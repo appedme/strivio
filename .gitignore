@@ -12,7 +12,8 @@
 .open-next/
 # production
 /build
-
+.wrangler/
+worker-*.js
 # misc
 .DS_Store
 *.pem
